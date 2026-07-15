@@ -61,7 +61,7 @@ export const translations = {
       eyebrow: 'Initiate Contact',
       title: "Let's build a frictionless operation.",
       lead: "Brief us on your business goals and current challenges — our team will evaluate and reach out within one business day with a clear plan of action.",
-      email: 'support@weblsh.com',
+      email: 'info@weblsh.com',
       phone: '+212 633-622787',
       location: 'Laâyoune, Morocco',
       form: {
@@ -154,7 +154,7 @@ export const translations = {
       eyebrow: 'Nous Contacter',
       title: 'Démarrez l’optimisation de vos systèmes.',
       lead: 'Présentez-nous vos objectifs et vos problématiques actuelles. Nos spécialistes étudieront votre dossier et vous répondront sous un jour ouvré.',
-      email: 'support@weblsh.com',
+      email: 'info@weblsh.com',
       phone: '+212 633-622787',
       location: 'Laâyoune, Maroc',
       form: {
@@ -247,7 +247,7 @@ export const translations = {
       eyebrow: 'تواصل معنا',
       title: 'لنعمل على تسريع وتأمين أعمالك.',
       lead: 'أرسل لنا تفاصيل مشروعك أو العقبات التي تواجهها — وسيقوم فريقنا بدراستها والرد عليك بخطة عمل واضحة خلال يوم عمل واحد.',
-      email: 'support@weblsh.com',
+      email: 'info@weblsh.com',
       phone: '+212 633-622787',
       location: 'العيون، المغرب',
       form: {
